@@ -1,0 +1,21 @@
+{
+    "name": "gridster-js",
+    "version": "0.5.6-kanso.1",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "Michael Marino",
+            "url": "https://github.com/mgmarino"
+        }
+    ],
+    "url": "http://gridster.net/",
+    "modules": "gridster-js.js",
+    "modules_attachment": false,
+    "attachments" : ["css"],
+    "dependencies": {
+        "modules": null,
+        "attachments": null,
+        "jquery": ">=1.10.1-kanso"
+    },
+    "description": "gridster provides a drag and drop grid-building package for building dashboards and the like"
+}
